@@ -4,9 +4,9 @@
 
 ### 1. Клонировать репозиторий и перейти в него в командной строке:
 
-git clone https://github.com/philaguy/api_yamdb.git
+git clone https://github.com/lev-nabiulin/fly-code-test.git
 
-cd api_yamdb
+cd fly-code-test
 
 ### 2. Cоздать и активировать виртуальное окружение:
 
@@ -27,3 +27,5 @@ python3 manage.py migrate
 ### 5. Запустить проект:
 
 python3 manage.py runserver
+
+=)
